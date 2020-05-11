@@ -1,0 +1,13 @@
+.jumbotron {
+    margin:0 auto;
+    text-align: center;
+}
+
+#result1 {
+    margin:0 auto;
+    width:450px;
+    height:70px;
+    background-color:#ffff00;
+    margin-top:15px;
+    padding:10px;
+}
